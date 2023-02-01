@@ -1,7 +1,0 @@
-G:\dev\website\bin\Release\net7.0\publish\website.exe
-G:\dev\website\bin\Release\net7.0\publish\appsettings.Development.json
-G:\dev\website\bin\Release\net7.0\publish\appsettings.json
-G:\dev\website\bin\Release\net7.0\publish\website.dll
-G:\dev\website\bin\Release\net7.0\publish\website.deps.json
-G:\dev\website\bin\Release\net7.0\publish\website.runtimeconfig.json
-G:\dev\website\bin\Release\net7.0\publish\website.pdb
