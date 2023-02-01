@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.centered {
+    text-align: center;
+}
+.big {
+    font-size:32pt
+}
+.links {
+    padding: 5%;
+}
+body{
+    font-size: 16pt;
+    font-family: 'Roboto', sans-serif;
+    padding: 3%
+}
+div{
+    padding: 1%
+}
+
